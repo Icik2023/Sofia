@@ -1,0 +1,14 @@
+[
+  {
+    "question":"EPHEMERAL",
+    "options":["Fleeting","Eternal","Heavy","Complex"],
+    "correct":0,
+    "explanation":"Кратковременный."
+  },
+  {
+    "question":"DOCTOR : HOSPITAL",
+    "options":["Teacher:School","Book:Library","Food:Restaurant","Car:Garage"],
+    "correct":0,
+    "explanation":"Профессия и место работы."
+  }
+]
