@@ -1,0 +1,43 @@
+body{
+font-family:Arial,sans-serif;
+background:#f5f7fb;
+margin:0;
+padding:20px;
+}
+
+.container{
+max-width:900px;
+margin:auto;
+background:white;
+padding:20px;
+border-radius:12px;
+}
+
+.tabs button,
+.mode button{
+padding:12px;
+margin:5px;
+cursor:pointer;
+}
+
+.active{
+background:#2563eb;
+color:white;
+}
+
+.option{
+display:block;
+width:100%;
+margin:10px 0;
+padding:14px;
+text-align:left;
+cursor:pointer;
+}
+
+.correct{
+background:#d1fae5;
+}
+
+.incorrect{
+background:#fee2e2;
+}
